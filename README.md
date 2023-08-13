@@ -1,3 +1,3 @@
 <!-- start-quote -->
-Prediction for 2023-08-13 Avg:16.9, Min:10.8, Max:22.8
+Prediction for 2023-08-14 Avg:14.3, Min:6.8, Max:21.2
 <!-- end-quote -->
