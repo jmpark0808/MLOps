@@ -1,3 +1,3 @@
 <!-- start-quote -->
-Prediction for 2023-09-27 Avg:10.2, Min:5.4, Max:15.2
+Prediction for 2023-09-28 Avg:11.8, Min:6.7, Max:17.2
 <!-- end-quote -->
