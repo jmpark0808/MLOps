@@ -1,3 +1,3 @@
 <!-- start-quote -->
-Prediction for 2023-12-28 Avg:3.3, Min:1.1, Max:5.6
+Prediction for 2023-12-29 Avg:2.8, Min:0.2, Max:5.5
 <!-- end-quote -->
