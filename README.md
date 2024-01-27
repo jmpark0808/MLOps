@@ -1,3 +1,3 @@
 <!-- start-quote -->
-Prediction for 2024-01-27 Avg:-1.2, Min:-2.7, Max:1.0
+Prediction for 2024-01-28 Avg:-2.4, Min:-5.4, Max:0.8
 <!-- end-quote -->
